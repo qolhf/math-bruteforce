@@ -1,2 +1,2 @@
 # math-bruteforce
-Bruteforce your..math equations!!
+Basic POC for Bruteforcing your..math equations!!
